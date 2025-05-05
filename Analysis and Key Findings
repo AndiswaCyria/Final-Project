@@ -1,0 +1,47 @@
+## Comparative Analysis Summary 
+
+# Total COVID-19 Cases Over Time
+
+South Africa recorded the highest total number of cases consistently across the period, peaking at over 3 million cases by 01 - 16 - 2022.
+
+India and Russia had sharp increases at different stages, especially visible during their respective waves (e.g., Delta surge in India in February 2022).
+
+Kenya, Nigeria, and Morocco showed much lower overall case counts compared to larger countries like South Africa and India, reflecting either lower transmission or under-reporting.
+
+# Total-19 Deaths Over Time
+Again, South Africa reported the highest cumulative deaths in Africa, but India and Russia led globally in absolute numbers by the end of the period.
+
+Nigeria and Kenya kept death counts relatively low, though this may partly reflect differences in testing/reporting.
+
+# Daily New Cases
+The plot showed clear waves of infections:
+- South Africa’s sharp spikes aligned with the Beta and Omicron waves.
+- India experienced a significant surge in mid-2021 (Delta wave).
+Morocco and Egypt showed steadier patterns, with smaller peaks.
+
+# COVID-19 Death Rate (Total Deaths/Total Cases)
+Egypt displayed a consistently high death rate early on, likely due to testing limitations.
+
+South Africa’s death rate was lower than Egypt’s but rose during peak waves.
+
+India’s death rate remained relatively moderate, despite high case numbers.
+
+# Vaccination Progress 
+India and China scaled vaccination programs massively, surpassing hundreds of millions of doses.
+
+In Africa:
+- Morocco was a standout performer, achieving over 62.8% of its population fully vaccinated.
+- South Africa also made strong progress but lagged Morocco slightly.
+- Nigeria and Kenya showed slower progress, with vaccination percentages remaining low well into 2022.
+
+# People Fully Vaccinated (% of Population)
+The choropleth map made it clear that North African countries (e.g., Morocco, Egypt) outpaced Sub-Saharan Africa in vaccine coverage.
+
+Russia and China had high full vaccination rates, crossing significant thresholds by 06 February 2023.
+
+## Key Insights: 
+Vaccination inequities are stark: some African countries lagged far behind global leaders.
+
+Death rate analysis may reflect both health system capacity and data/reporting gaps.
+
+Waves of infections followed global trends but were timed differently across regions, likely due to variant spread.
